@@ -20,7 +20,7 @@ EASY links:
 
 ---
 
-if one of the links is down or not loading, just try the next one. they all go to the same place.
+if one of the links is blocked or not loading, just try the next one. they all go to the same place.
 
 ---
 
