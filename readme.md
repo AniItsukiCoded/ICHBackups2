@@ -10,9 +10,17 @@ EASY links:
 
 [Launcher 4](https://editor.p5js.org/jace01b/full/Pd-AaFE8Q)
 
+[Launcher 5](https://editor.p5js.org/jace01b/full/En16520jO)
+
+[Launcher 6](https://editor.p5js.org/jace01b/full/WUTqx4Upg)
+
+[Launcher 7](https://editor.p5js.org/jace01b/full/6_IogozHR)
+
+[Launcher 8](https://editor.p5js.org/jace01b/full/vh0E_CreD)
+
 ---
 
-if one of the links is blocked or not loading, just try the next one.
+if one of the links is down or not loading, just try the next one. they all go to the same place.
 
 ---
 
